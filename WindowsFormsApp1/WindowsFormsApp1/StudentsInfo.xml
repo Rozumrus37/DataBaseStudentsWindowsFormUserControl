@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<students>
+	<student name = "Ruslan" surname = "Rozumnyi" grade = "10" age = "16"/>
+	<student name = "Alex" surname = "Buchyk" grade = "10" age = "16"/>
+	<student name = "Cyril" surname = "Berezovenko" grade = "10" age = "16"/>
+	<student name = "Liza" surname = "Mashchenko" grade = "10" age = "16"/>
+</students>
